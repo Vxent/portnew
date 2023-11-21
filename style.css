@@ -1,0 +1,286 @@
+
+.logo {
+    padding-left: 10px;
+}
+.btn {
+    background-color: green;
+}
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    
+}
+h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+h6 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+    
+}
+p {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+    
+}
+
+.text {
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+    margin: 10px;
+    display: inline-block;
+    top: 100px;
+    
+}
+
+.nav-item {
+    display: flex;
+    margin: 0;
+    align-items: center;
+    padding-right: 80px;
+  
+    
+}
+.bt1 {
+    position: relative;
+    left: 50px;
+    top: 80px;
+    margin: 0;
+    display: inline-block;
+    padding-left: 60px;
+    
+}
+.logo {
+    padding-left: 120px;
+}
+.card1 {
+    position: relative;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+      
+}
+.card2 {
+    position: relative;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    
+    
+      
+}
+.card3 {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    float: right;
+}
+.width {
+    max-width: 1500px;
+    margin: 0 auto;
+
+}
+#hero {
+    position: sticky;
+}
+
+.pi2 {
+    position: relative;
+    top: -150px;
+    left: 800px;
+    bottom: 10px;
+   
+
+}
+.textus {
+    position: relative;
+    left: 150px;
+    top: 300px;
+    font-size: x-large;
+    padding-top: -200px;
+    
+
+}
+.kxent {
+    position: relative;
+    bottom: 900px;
+    left: 150px;
+}
+
+  
+h2 {
+    -webkit-text-stroke: 1px #c6fa56;
+ }
+.btn5 {
+    position: relative;
+    padding-top: 80px;
+    padding-bottom: 100px;
+
+}
+.bo2 {
+    position: relative;
+    right: 25px;
+
+}
+.bo1{
+    position: relative;
+    right: 35px;
+}
+.topbot {
+    position: relative;
+    right: 20px;
+    
+
+}
+.topbot2{
+    position: relative;
+    left: 20px;
+
+}
+.are {
+    position: relative;
+    padding-top: 100px;
+}
+.cards {
+    position: relative;
+    padding-bottom: 100px;
+}
+.servtext {
+    position: relative;
+    padding-top: 100px;
+}
+.iphone {
+    position: relative;
+    padding-bottom: 100px;
+}
+.pic1 {
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 150px;
+}
+.cert3 {
+    position: relative;
+    padding-left: 20px;
+}
+.cert4 {
+    position: relative;
+    padding-right: 20px;
+}
+.portpolio {
+    position: relative;
+    padding-top: 100px;
+}
+.pic2 {
+    position: relative;
+    padding-bottom: 150px;
+}
+#cta2 {
+    position: relative;
+    padding-top: -100;
+}
+
+#hero {
+    background-image: url(lupet.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#home {
+    background-image: url(wp3684409.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#portpolio {
+    background-image: url(tech.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#certificate {
+    background-image: url(tech.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#services {
+    background-image: url(tech.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#about {
+    background-image: url();
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#cta2  {
+    background-image: url(gg.webp);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+#footer {
+    background-image: url(Footer-Background-Image.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.simson {
+    position: relative;
+    right: 200px;
+    bottom: 500px;
+}
+.simson2 {
+    position: relative;
+    right: -50px;
+    bottom: 500px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
+  }
+  /* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+  }
+  
+  @media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+  }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+  }
